@@ -1,0 +1,11 @@
+framework module CustomWebView {
+  umbrella header "CustomWebView.h"
+
+  export *
+  module * { export * }
+}
+
+module CustomWebView.Swift {
+    header "CustomWebView-Swift.h"
+    requires objc
+}

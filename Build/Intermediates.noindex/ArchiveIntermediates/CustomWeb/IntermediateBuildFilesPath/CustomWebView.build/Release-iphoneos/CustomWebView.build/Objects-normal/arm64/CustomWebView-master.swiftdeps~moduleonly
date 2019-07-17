@@ -1,0 +1,7 @@
+version: "Apple Swift version 5.0.1 (swiftlang-1001.0.82.4 clang-1001.0.46.5)"
+options: "6bb13e7872292f8c31fe63e3e7c8e904"
+build_time: [1563282109, 376931000]
+inputs:
+  "/Users/mandeepsingh/Desktop/CustomWebView/CustomWebView/WebController.swift": [9223372036, 854775807]
+  "/Users/mandeepsingh/Desktop/CustomWebView/CustomWebView/WebViewConfig.swift": [9223372036, 854775807]
+  "/Users/mandeepsingh/Desktop/CustomWebView/CustomWebView/WebModel.swift": [9223372036, 854775807]

@@ -1,0 +1,396 @@
+### Swift dependencies file v0 ###
+provides-top-level:
+- "WebModel"
+provides-nominal:
+- "13CustomWebView0B5ModelC"
+provides-member:
+- ["13CustomWebView0B5ModelC", ""]
+provides-dynamic-lookup:
+- "viewDidLoad"
+depends-top-level:
+- "AnyObject"
+- "AssignmentPrecedence"
+- "Bool"
+- "BooleanLiteralType"
+- !private "FloatLiteralType"
+- !private "IntegerLiteralType"
+- "NSCoder"
+- !private "StringLiteralType"
+- "UINavigationController"
+- "Void"
+- "WebController"
+- "WebModel"
+- "WebViewConfig"
+- !private "fatalError"
+- !private "print"
+depends-member:
+- !private ["s7CVarArgP", "WebController"]
+- !private ["s7CVarArgP", "WebViewConfig"]
+- ["s7CVarArgP", ""]
+- !private ["s7CVarArgP", "_didComplete"]
+- !private ["s7CVarArgP", "closeVC"]
+- !private ["s7CVarArgP", "dismiss"]
+- !private ["s7CVarArgP", "fatalError"]
+- !private ["s7CVarArgP", "init"]
+- !private ["s7CVarArgP", "print"]
+- !private ["s7CVarArgP", "resposeData"]
+- !private ["s7CVarArgP", "viewControllers"]
+- !private ["s7CVarArgP", "webVC"]
+- !private ["s28CustomDebugStringConvertibleP", "WebController"]
+- !private ["s28CustomDebugStringConvertibleP", "WebViewConfig"]
+- ["s28CustomDebugStringConvertibleP", ""]
+- !private ["s28CustomDebugStringConvertibleP", "_didComplete"]
+- !private ["s28CustomDebugStringConvertibleP", "closeVC"]
+- !private ["s28CustomDebugStringConvertibleP", "dismiss"]
+- !private ["s28CustomDebugStringConvertibleP", "fatalError"]
+- !private ["s28CustomDebugStringConvertibleP", "init"]
+- !private ["s28CustomDebugStringConvertibleP", "print"]
+- !private ["s28CustomDebugStringConvertibleP", "resposeData"]
+- !private ["s28CustomDebugStringConvertibleP", "viewControllers"]
+- !private ["s28CustomDebugStringConvertibleP", "webVC"]
+- !private ["s17CustomReflectableP", "closeVC"]
+- !private ["s17CustomReflectableP", "resposeData"]
+- !private ["s23CustomStringConvertibleP", "WebController"]
+- !private ["s23CustomStringConvertibleP", "WebViewConfig"]
+- ["s23CustomStringConvertibleP", ""]
+- !private ["s23CustomStringConvertibleP", "_didComplete"]
+- !private ["s23CustomStringConvertibleP", "closeVC"]
+- !private ["s23CustomStringConvertibleP", "dismiss"]
+- !private ["s23CustomStringConvertibleP", "fatalError"]
+- !private ["s23CustomStringConvertibleP", "init"]
+- !private ["s23CustomStringConvertibleP", "print"]
+- !private ["s23CustomStringConvertibleP", "resposeData"]
+- !private ["s23CustomStringConvertibleP", "viewControllers"]
+- !private ["s23CustomStringConvertibleP", "webVC"]
+- !private ["Se", "closeVC"]
+- !private ["Se", "resposeData"]
+- !private ["SE", "closeVC"]
+- !private ["SE", "resposeData"]
+- !private ["SQ", "WebController"]
+- !private ["SQ", "WebViewConfig"]
+- ["SQ", ""]
+- !private ["SQ", "_didComplete"]
+- !private ["SQ", "closeVC"]
+- !private ["SQ", "dismiss"]
+- !private ["SQ", "fatalError"]
+- !private ["SQ", "init"]
+- !private ["SQ", "print"]
+- !private ["SQ", "resposeData"]
+- !private ["SQ", "viewControllers"]
+- !private ["SQ", "webVC"]
+- !private ["s23ExpressibleByNilLiteralP", "closeVC"]
+- !private ["s23ExpressibleByNilLiteralP", "resposeData"]
+- !private ["SH", "WebController"]
+- !private ["SH", "WebViewConfig"]
+- ["SH", ""]
+- !private ["SH", "_didComplete"]
+- !private ["SH", "closeVC"]
+- !private ["SH", "dismiss"]
+- !private ["SH", "fatalError"]
+- !private ["SH", "init"]
+- !private ["SH", "print"]
+- !private ["SH", "resposeData"]
+- !private ["SH", "viewControllers"]
+- !private ["SH", "webVC"]
+- !private ["So8NSCodingP", "WebController"]
+- !private ["So8NSCodingP", "WebViewConfig"]
+- ["So8NSCodingP", ""]
+- !private ["So8NSCodingP", "_didComplete"]
+- !private ["So8NSCodingP", "closeVC"]
+- !private ["So8NSCodingP", "dismiss"]
+- !private ["So8NSCodingP", "fatalError"]
+- !private ["So8NSCodingP", "init"]
+- !private ["So8NSCodingP", "print"]
+- !private ["So8NSCodingP", "resposeData"]
+- !private ["So8NSCodingP", "viewControllers"]
+- !private ["So8NSCodingP", "webVC"]
+- !private ["So26NSExtensionRequestHandlingP", "WebController"]
+- !private ["So26NSExtensionRequestHandlingP", "WebViewConfig"]
+- ["So26NSExtensionRequestHandlingP", ""]
+- !private ["So26NSExtensionRequestHandlingP", "_didComplete"]
+- !private ["So26NSExtensionRequestHandlingP", "closeVC"]
+- !private ["So26NSExtensionRequestHandlingP", "dismiss"]
+- !private ["So26NSExtensionRequestHandlingP", "fatalError"]
+- !private ["So26NSExtensionRequestHandlingP", "init"]
+- !private ["So26NSExtensionRequestHandlingP", "print"]
+- !private ["So26NSExtensionRequestHandlingP", "resposeData"]
+- !private ["So26NSExtensionRequestHandlingP", "viewControllers"]
+- !private ["So26NSExtensionRequestHandlingP", "webVC"]
+- ["So8NSObjectC", "AnyObject"]
+- ["So8NSObjectC", "Bool"]
+- ["So8NSObjectC", "NSCoder"]
+- ["So8NSObjectC", "Void"]
+- ["So8NSObjectC", "WebController"]
+- ["So8NSObjectC", "WebViewConfig"]
+- ["So8NSObjectC", "_didComplete"]
+- !private ["So8NSObjectC", "closeVC"]
+- !private ["So8NSObjectC", "dismiss"]
+- !private ["So8NSObjectC", "fatalError"]
+- ["So8NSObjectC", "getData"]
+- ["So8NSObjectC", "init"]
+- !private ["So8NSObjectC", "print"]
+- !private ["So8NSObjectC", "resposeData"]
+- !private ["So8NSObjectC", "viewControllers"]
+- ["So8NSObjectC", "viewDidLoad"]
+- ["So8NSObjectC", "webVC"]
+- !private ["So8NSObjectP", "WebController"]
+- !private ["So8NSObjectP", "WebViewConfig"]
+- ["So8NSObjectP", ""]
+- !private ["So8NSObjectP", "_didComplete"]
+- !private ["So8NSObjectP", "closeVC"]
+- !private ["So8NSObjectP", "dismiss"]
+- !private ["So8NSObjectP", "fatalError"]
+- !private ["So8NSObjectP", "init"]
+- !private ["So8NSObjectP", "print"]
+- !private ["So8NSObjectP", "resposeData"]
+- !private ["So8NSObjectP", "viewControllers"]
+- !private ["So8NSObjectP", "webVC"]
+- !private ["Sq", "closeVC"]
+- !private ["Sq", "resposeData"]
+- !private ["So21UIAppearanceContainerP", "WebController"]
+- !private ["So21UIAppearanceContainerP", "WebViewConfig"]
+- ["So21UIAppearanceContainerP", ""]
+- !private ["So21UIAppearanceContainerP", "_didComplete"]
+- !private ["So21UIAppearanceContainerP", "closeVC"]
+- !private ["So21UIAppearanceContainerP", "dismiss"]
+- !private ["So21UIAppearanceContainerP", "fatalError"]
+- !private ["So21UIAppearanceContainerP", "init"]
+- !private ["So21UIAppearanceContainerP", "print"]
+- !private ["So21UIAppearanceContainerP", "resposeData"]
+- !private ["So21UIAppearanceContainerP", "viewControllers"]
+- !private ["So21UIAppearanceContainerP", "webVC"]
+- !private ["So18UIContentContainerP", "WebController"]
+- !private ["So18UIContentContainerP", "WebViewConfig"]
+- ["So18UIContentContainerP", ""]
+- !private ["So18UIContentContainerP", "_didComplete"]
+- !private ["So18UIContentContainerP", "closeVC"]
+- !private ["So18UIContentContainerP", "dismiss"]
+- !private ["So18UIContentContainerP", "fatalError"]
+- !private ["So18UIContentContainerP", "init"]
+- !private ["So18UIContentContainerP", "print"]
+- !private ["So18UIContentContainerP", "resposeData"]
+- !private ["So18UIContentContainerP", "viewControllers"]
+- !private ["So18UIContentContainerP", "webVC"]
+- !private ["So18UIFocusEnvironmentP", "WebController"]
+- !private ["So18UIFocusEnvironmentP", "WebViewConfig"]
+- ["So18UIFocusEnvironmentP", ""]
+- !private ["So18UIFocusEnvironmentP", "_didComplete"]
+- !private ["So18UIFocusEnvironmentP", "closeVC"]
+- !private ["So18UIFocusEnvironmentP", "dismiss"]
+- !private ["So18UIFocusEnvironmentP", "fatalError"]
+- !private ["So18UIFocusEnvironmentP", "init"]
+- !private ["So18UIFocusEnvironmentP", "print"]
+- !private ["So18UIFocusEnvironmentP", "resposeData"]
+- !private ["So18UIFocusEnvironmentP", "viewControllers"]
+- !private ["So18UIFocusEnvironmentP", "webVC"]
+- ["So22UINavigationControllerC", "AnyObject"]
+- ["So22UINavigationControllerC", "Bool"]
+- ["So22UINavigationControllerC", "NSCoder"]
+- ["So22UINavigationControllerC", "Void"]
+- ["So22UINavigationControllerC", "WebController"]
+- ["So22UINavigationControllerC", "WebViewConfig"]
+- ["So22UINavigationControllerC", ""]
+- ["So22UINavigationControllerC", "_didComplete"]
+- !private ["So22UINavigationControllerC", "dismiss"]
+- !private ["So22UINavigationControllerC", "fatalError"]
+- ["So22UINavigationControllerC", "getData"]
+- ["So22UINavigationControllerC", "init"]
+- !private ["So22UINavigationControllerC", "print"]
+- !private ["So22UINavigationControllerC", "viewControllers"]
+- ["So22UINavigationControllerC", "viewDidLoad"]
+- ["So22UINavigationControllerC", "webVC"]
+- !private ["So30UIPasteConfigurationSupportingP", "WebController"]
+- !private ["So30UIPasteConfigurationSupportingP", "WebViewConfig"]
+- ["So30UIPasteConfigurationSupportingP", ""]
+- !private ["So30UIPasteConfigurationSupportingP", "_didComplete"]
+- !private ["So30UIPasteConfigurationSupportingP", "closeVC"]
+- !private ["So30UIPasteConfigurationSupportingP", "dismiss"]
+- !private ["So30UIPasteConfigurationSupportingP", "fatalError"]
+- !private ["So30UIPasteConfigurationSupportingP", "init"]
+- !private ["So30UIPasteConfigurationSupportingP", "print"]
+- !private ["So30UIPasteConfigurationSupportingP", "resposeData"]
+- !private ["So30UIPasteConfigurationSupportingP", "viewControllers"]
+- !private ["So30UIPasteConfigurationSupportingP", "webVC"]
+- ["So11UIResponderC", "AnyObject"]
+- ["So11UIResponderC", "Bool"]
+- ["So11UIResponderC", "NSCoder"]
+- ["So11UIResponderC", "Void"]
+- ["So11UIResponderC", "WebController"]
+- ["So11UIResponderC", "WebViewConfig"]
+- ["So11UIResponderC", "_didComplete"]
+- !private ["So11UIResponderC", "closeVC"]
+- !private ["So11UIResponderC", "dismiss"]
+- !private ["So11UIResponderC", "fatalError"]
+- ["So11UIResponderC", "getData"]
+- ["So11UIResponderC", "init"]
+- !private ["So11UIResponderC", "print"]
+- !private ["So11UIResponderC", "resposeData"]
+- !private ["So11UIResponderC", "viewControllers"]
+- ["So11UIResponderC", "viewDidLoad"]
+- ["So11UIResponderC", "webVC"]
+- !private ["So30UIResponderStandardEditActionsP", "WebController"]
+- !private ["So30UIResponderStandardEditActionsP", "WebViewConfig"]
+- ["So30UIResponderStandardEditActionsP", ""]
+- !private ["So30UIResponderStandardEditActionsP", "_didComplete"]
+- !private ["So30UIResponderStandardEditActionsP", "closeVC"]
+- !private ["So30UIResponderStandardEditActionsP", "dismiss"]
+- !private ["So30UIResponderStandardEditActionsP", "fatalError"]
+- !private ["So30UIResponderStandardEditActionsP", "init"]
+- !private ["So30UIResponderStandardEditActionsP", "print"]
+- !private ["So30UIResponderStandardEditActionsP", "resposeData"]
+- !private ["So30UIResponderStandardEditActionsP", "viewControllers"]
+- !private ["So30UIResponderStandardEditActionsP", "webVC"]
+- !private ["So16UIStateRestoringP", "WebController"]
+- !private ["So16UIStateRestoringP", "WebViewConfig"]
+- ["So16UIStateRestoringP", ""]
+- !private ["So16UIStateRestoringP", "_didComplete"]
+- !private ["So16UIStateRestoringP", "closeVC"]
+- !private ["So16UIStateRestoringP", "dismiss"]
+- !private ["So16UIStateRestoringP", "fatalError"]
+- !private ["So16UIStateRestoringP", "init"]
+- !private ["So16UIStateRestoringP", "print"]
+- !private ["So16UIStateRestoringP", "resposeData"]
+- !private ["So16UIStateRestoringP", "viewControllers"]
+- !private ["So16UIStateRestoringP", "webVC"]
+- !private ["So18UITraitEnvironmentP", "WebController"]
+- !private ["So18UITraitEnvironmentP", "WebViewConfig"]
+- ["So18UITraitEnvironmentP", ""]
+- !private ["So18UITraitEnvironmentP", "_didComplete"]
+- !private ["So18UITraitEnvironmentP", "closeVC"]
+- !private ["So18UITraitEnvironmentP", "dismiss"]
+- !private ["So18UITraitEnvironmentP", "fatalError"]
+- !private ["So18UITraitEnvironmentP", "init"]
+- !private ["So18UITraitEnvironmentP", "print"]
+- !private ["So18UITraitEnvironmentP", "resposeData"]
+- !private ["So18UITraitEnvironmentP", "viewControllers"]
+- !private ["So18UITraitEnvironmentP", "webVC"]
+- !private ["So23UIUserActivityRestoringP", "WebController"]
+- !private ["So23UIUserActivityRestoringP", "WebViewConfig"]
+- ["So23UIUserActivityRestoringP", ""]
+- !private ["So23UIUserActivityRestoringP", "_didComplete"]
+- !private ["So23UIUserActivityRestoringP", "closeVC"]
+- !private ["So23UIUserActivityRestoringP", "dismiss"]
+- !private ["So23UIUserActivityRestoringP", "fatalError"]
+- !private ["So23UIUserActivityRestoringP", "init"]
+- !private ["So23UIUserActivityRestoringP", "print"]
+- !private ["So23UIUserActivityRestoringP", "resposeData"]
+- !private ["So23UIUserActivityRestoringP", "viewControllers"]
+- !private ["So23UIUserActivityRestoringP", "webVC"]
+- ["So16UIViewControllerC", "AnyObject"]
+- ["So16UIViewControllerC", "Bool"]
+- ["So16UIViewControllerC", "NSCoder"]
+- ["So16UIViewControllerC", "Void"]
+- ["So16UIViewControllerC", "WebController"]
+- ["So16UIViewControllerC", "WebViewConfig"]
+- ["So16UIViewControllerC", "_didComplete"]
+- !private ["So16UIViewControllerC", "closeVC"]
+- !private ["So16UIViewControllerC", "dismiss"]
+- !private ["So16UIViewControllerC", "fatalError"]
+- ["So16UIViewControllerC", "getData"]
+- ["So16UIViewControllerC", "init"]
+- !private ["So16UIViewControllerC", "print"]
+- !private ["So16UIViewControllerC", "resposeData"]
+- !private ["So16UIViewControllerC", "viewControllers"]
+- ["So16UIViewControllerC", "viewDidLoad"]
+- ["So16UIViewControllerC", "webVC"]
+- !private ["So22WKScriptMessageHandlerP", "closeVC"]
+- !private ["So22WKScriptMessageHandlerP", "init"]
+- !private ["So22WKScriptMessageHandlerP", "resposeData"]
+- !private ["13CustomWebView0B10ControllerC", "closeVC"]
+- !private ["13CustomWebView0B10ControllerC", "deinit"]
+- !private ["13CustomWebView0B10ControllerC", "init"]
+- !private ["13CustomWebView0B10ControllerC", "resposeData"]
+- ["13CustomWebView0B5ModelC", "AnyObject"]
+- ["13CustomWebView0B5ModelC", "Bool"]
+- ["13CustomWebView0B5ModelC", "NSCoder"]
+- ["13CustomWebView0B5ModelC", "Void"]
+- ["13CustomWebView0B5ModelC", "WebController"]
+- ["13CustomWebView0B5ModelC", "WebViewConfig"]
+- !private ["13CustomWebView0B5ModelC", "_didComplete"]
+- ["13CustomWebView0B5ModelC", "deinit"]
+- !private ["13CustomWebView0B5ModelC", "dismiss"]
+- !private ["13CustomWebView0B5ModelC", "fatalError"]
+- ["13CustomWebView0B5ModelC", "getData"]
+- ["13CustomWebView0B5ModelC", "init"]
+- !private ["13CustomWebView0B5ModelC", "print"]
+- !private ["13CustomWebView0B5ModelC", "viewControllers"]
+- ["13CustomWebView0B5ModelC", "viewDidLoad"]
+- !private ["13CustomWebView0B5ModelC", "webVC"]
+- !private ["13CustomWebView0bC6ConfigV", "shared"]
+- !private ["13CustomWebView0bC6ConfigV", "webURL"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "WebController"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "WebViewConfig"]
+- ["10Foundation27_KeyValueCodingAndObservingP", ""]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "_didComplete"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "closeVC"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "dismiss"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "fatalError"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "init"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "print"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "resposeData"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "viewControllers"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "webVC"]
+- !private ["s21_ObjectiveCBridgeableP", "closeVC"]
+- !private ["s21_ObjectiveCBridgeableP", "resposeData"]
+depends-nominal:
+- "s7CVarArgP"
+- "s28CustomDebugStringConvertibleP"
+- !private "s17CustomReflectableP"
+- "s23CustomStringConvertibleP"
+- !private "Se"
+- !private "SE"
+- "SQ"
+- !private "s23ExpressibleByNilLiteralP"
+- "SH"
+- "So8NSCodingP"
+- "So26NSExtensionRequestHandlingP"
+- "So8NSObjectC"
+- "So8NSObjectP"
+- !private "Sq"
+- "So21UIAppearanceContainerP"
+- "So18UIContentContainerP"
+- "So18UIFocusEnvironmentP"
+- "So22UINavigationControllerC"
+- "So30UIPasteConfigurationSupportingP"
+- "So11UIResponderC"
+- "So30UIResponderStandardEditActionsP"
+- "So16UIStateRestoringP"
+- "So18UITraitEnvironmentP"
+- "So23UIUserActivityRestoringP"
+- "So16UIViewControllerC"
+- !private "So22WKScriptMessageHandlerP"
+- !private "13CustomWebView0B10ControllerC"
+- "13CustomWebView0B5ModelC"
+- !private "13CustomWebView0bC6ConfigV"
+- "10Foundation27_KeyValueCodingAndObservingP"
+- !private "s21_ObjectiveCBridgeableP"
+depends-dynamic-lookup:
+depends-external:
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/ObjectiveC.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/CoreImage.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/QuartzCore.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/Dispatch.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/Metal.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/Darwin.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/Foundation.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/CoreFoundation.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/CoreGraphics.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/Swift.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/UIKit.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/SwiftOnoneSupport.swiftmodule"
+- "/Users/mandeepsingh/Desktop/CustomWebView/CustomWebView/CustomWebView.h"
+- "/Users/mandeepsingh/Desktop/CustomWebView/Build/Intermediates.noindex/CustomWebView.build/Debug-iphoneos/CustomWebView.build/unextended-module.modulemap"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS12.2.sdk/usr/include/objc/ObjectiveC.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS12.2.sdk/System/Library/Frameworks/OpenGLES.framework/Headers/OpenGLES.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS12.2.sdk/System/Library/Frameworks/CoreImage.framework/Headers/CoreImage.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS12.2.sdk/System/Library/Frameworks/QuartzCore.framework/Headers/QuartzCore.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/Dispatch.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS12.2.sdk/System/Library/Frameworks/Metal.framework/Headers/Metal.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS12.2.sdk/usr/include/Darwin.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS12.2.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS12.2.sdk/System/Library/Frameworks/CoreGraphics.framework/Headers/CoreGraphics.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS12.2.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS12.2.sdk/System/Library/Frameworks/WebKit.framework/Headers/WebKit.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS12.2.sdk/System/Library/Frameworks/CoreText.framework/Headers/CoreText.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS12.2.sdk/System/Library/Frameworks/Security.framework/Headers/Security.apinotes"
+interface-hash: "5aefa83a5b5dc01138408413c8082159"

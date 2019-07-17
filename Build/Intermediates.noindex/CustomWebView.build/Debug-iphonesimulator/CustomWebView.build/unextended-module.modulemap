@@ -1,0 +1,10 @@
+framework module CustomWebView {
+  umbrella header "CustomWebView.h"
+
+  export *
+  module * { export * }
+}
+
+module CustomWebView.__Swift {
+    exclude header "CustomWebView-Swift.h"
+}
